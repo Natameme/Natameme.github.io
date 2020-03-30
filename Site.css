@@ -1,1 +1,28 @@
+body {
+  background-color: maroon;
+}
 
+h1 {
+  size: 10px;
+  font-family: Helvetica, Arial, Sans-Serif;
+  width: 500px;
+  border: 15px solid black;
+  background-color: white;
+  padding: 50px;
+  margin: 20px;
+  color: black;
+  margin-left: 20px;
+}
+
+h2 {
+  color: white;
+  size: 10px;
+  font-family: Helvetica, Arial, Sans-Serif;
+  width: 500px;
+  border: 15px solid white;
+  background-color: grey;
+  padding: 50px;
+  margin: 20px;
+  color: black;
+  margin-left: 20px;
+}
